@@ -5,7 +5,7 @@
 #
 # $Title: Python setup for bpydot $
 # $Copyright: 2025 Devin Teske. All rights reserved. $
-# $FrauBSD$
+# $FrauBSD: bpydot/setup.py 2025-12-22 20:51:35 -0800 freebsdfrau $
 #
 ############################################################ LICENSE
 #

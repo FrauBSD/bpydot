@@ -3,7 +3,7 @@
 # $Title: Python init for bpydot package $
 # $Copyright: 2025 Devin Teske. All rights reserved. $
 # pylint: disable=line-too-long
-# $FrauBSD$
+# $FrauBSD: bpydot/bpydot/__init__.py 2025-12-22 20:51:35 -0800 freebsdfrau $
 # pylint: enable=line-too-long
 #
 ############################################################ LICENSE

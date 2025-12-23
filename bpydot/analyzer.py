@@ -4,7 +4,7 @@
 # $Title: bpydot - Python Code Analysis and Visualization $
 # $Copyright: 2025 Devin Teske. All rights reserved. $
 # pylint: disable=line-too-long
-# $FrauBSD$
+# $FrauBSD: bpydot/bpydot/analyzer.py 2025-12-22 20:51:35 -0800 freebsdfrau $
 # pylint: enable=line-too-long
 # pylint: disable=too-many-lines,too-many-instance-attributes,too-few-public-methods
 # pylint: disable=too-many-locals,too-many-branches,too-many-statements
