@@ -4,7 +4,7 @@
 # $Title: bpydot - Python Code Analysis and Visualization Tool $
 # $Copyright: 2025 Devin Teske. All rights reserved. $
 # pylint: disable=line-too-long
-# $FrauBSD: bpydot/bpydot/bpydot.py 2025-12-22 20:51:35 -0800 freebsdfrau $
+# $FrauBSD: bpydot/bpydot/bpydot.py 2026-01-12 10:54:21 -0800 freebsdfrau $
 # pylint: enable=line-too-long
 #
 ############################################################ LICENSE
